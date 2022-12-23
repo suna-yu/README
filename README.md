@@ -30,6 +30,21 @@
 - Tech 3 - version 3.0
 
 
+## What's included
+
+Some text
+
+```text
+folder1/
+└── folder2/
+    ├── folder3/
+    │   ├── file1
+    │   └── file2
+    └── folder4/
+        ├── file3
+        └── file4
+```
+
 ## Features
 List the ready features here:
 - Awesome feature 1
